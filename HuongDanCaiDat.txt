@@ -1,0 +1,6 @@
+data quanlyphongmay chạy trên phpMyAdmin 
+file nhóm 13 là file Document
+foder là sourcecode
+
+Tài khoản :admin123
+Mật Khẩu :13579
